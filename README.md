@@ -1,0 +1,1 @@
+This was a personal introduction for me to learn how to interface with OpenAI's API, applying ChatGPT to a repeated process. It worked well at interfacing with Project Euler scripts (although obviously couldn't handle functions that I'd stored outside of the script).
